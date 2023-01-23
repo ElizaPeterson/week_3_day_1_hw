@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family:'Times New Roman', Times, serif;
+}
+
+body > header {
+    background-color:#1e90ff;
+    color:white;
+    padding: 10px;
+    margin: 0;
+}
+
+body > header > nav > ul > li > a{
+    color: white;
+}
+
+body > header > nav > ul {
+    list-style: none;
+}
+
+body > main > header > h5 {
+    font-weight:normal;
+}
+
+body > main > header > h4 {
+    font-weight:normal;
+}
+
+body > main > article {
+    width: 80%;
+    margin:auto;
+}
+
+.btn-text-right {
+    text-align: right;
+}
+
+body > main > footer {
+    background-color:dodgerblue;
+    text-align: center;
+}
+
+body > main > footer > p {
+    margin: 0;
+}
